@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pipApp"
+    }
+  },
+  "defaultProject": "pipApp",
+  "cli": {
+    "analytics": "d40d8727-3698-40b7-9470-c9cc455c1f53"
+  }
 }
